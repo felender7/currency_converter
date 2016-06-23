@@ -1,0 +1,6 @@
+C:\Users\Beans\Documents\Visual Studio 2013\Projects\Currency Converter\Currency Converter\bin\Currency Converter.dll.config
+C:\Users\Beans\Documents\Visual Studio 2013\Projects\Currency Converter\Currency Converter\bin\Currency Converter.dll
+C:\Users\Beans\Documents\Visual Studio 2013\Projects\Currency Converter\Currency Converter\bin\Currency Converter.pdb
+C:\Users\Beans\Documents\Visual Studio 2013\Projects\Currency Converter\Currency Converter\obj\Debug\Currency Converter.csprojResolveAssemblyReference.cache
+C:\Users\Beans\Documents\Visual Studio 2013\Projects\Currency Converter\Currency Converter\obj\Debug\Currency Converter.dll
+C:\Users\Beans\Documents\Visual Studio 2013\Projects\Currency Converter\Currency Converter\obj\Debug\Currency Converter.pdb
